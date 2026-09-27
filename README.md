@@ -5,6 +5,7 @@ Projektuję architekturę rozwiązań AI dla procesów, których nie da się kup
 
 ### Obszary
 
+- **Środowiska pracy agentów AI** - projekt systemu kontroli dla agentów kodujących: reguły, hooki blokujące niebezpieczne operacje i dostęp do sekretów, skille ładowane na żądanie, niezależna recenzja drugim modelem
 - **Agenci AI** - autonomiczna obsługa procesów operacyjnych, integracje przez MCP i REST API z helpdeskiem, pocztą i systemami firmowymi
 - **Voice AI** - asystenci telefoniczni czasu rzeczywistego (SIP), tłumaczenie mowy na żywo, transkrypcja z rozpoznawaniem mówców
 - **Automatyzacja procesów** - przebudowa procesów ręcznych w systemy działające bez nadzoru
