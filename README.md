@@ -17,7 +17,7 @@ Projektuję architekturę rozwiązań AI dla procesów, których nie da się kup
 - Architektura z kontrolą: wąskie uprawnienia agentów, bezpieczniki na wyjściu modeli, zatwierdzanie operacji nieodwracalnych
 - Weryfikacja na danych produkcyjnych, nie na założeniach
 - Każda decyzja architektoniczna udokumentowana
-- Zgodność z RODO i AI Act na etapie projektu
+- RODO i AI Act uwzględniam na etapie projektu
 
 ### Stack
 
