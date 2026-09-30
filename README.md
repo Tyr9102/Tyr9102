@@ -4,7 +4,7 @@ Buduję działające narzędzia. AI to mój warsztat.
 
 Jestem samoukiem, nie klasycznym programistą. Od ponad 6 lat automatyzuję procesy: zaczynałem od skryptów w AutoHotkey i Pythonie, z czasem projekty stawały się coraz większe. Od około trzech lat pracuję z AI, a dziś z pomocą Claude Code prowadzę projekt samodzielnie, od zrozumienia problemu po wdrożenie.
 
-Zwykle zaczynam od prostego pytania: czy proces, który komuś zajmuje kilka godzin, da się zrobić szybciej i wygodniej? Najbardziej interesuje mnie praktyczny efekt, czyli ile czasu i pracy naprawdę da się zaoszczędzić. Sam kod jest mniej ważny.
+Zwykle zaczynam od prostego pytania: czy proces, który komuś zajmuje kilka godzin, da się zrobić szybciej i wygodniej? Najbardziej interesuje mnie praktyczny efekt, czyli ile czasu i pracy naprawdę da się zaoszczędzić.
 
 ### Czym się zajmuję
 
