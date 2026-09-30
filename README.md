@@ -1,28 +1,25 @@
 ## Patryk Tyrański
-**AI Solutions Architect**
 
-Projektuję architekturę rozwiązań AI dla procesów, których nie da się kupić gotowych. Każde wdrożenie prowadzę od analizy procesu przez projekt systemu do produkcji i utrzymania.
+Buduję działające narzędzia. AI to mój warsztat.
 
-### Obszary
+Jestem samoukiem, nie klasycznym programistą. Od ponad 6 lat automatyzuję procesy: zaczynałem od skryptów w AutoHotkey i Pythonie, z czasem projekty stawały się coraz większe. Od około trzech lat pracuję z AI, a dziś z pomocą Claude Code prowadzę projekt samodzielnie, od zrozumienia problemu po wdrożenie.
 
-- **Środowiska pracy agentów AI** - projekt systemu kontroli dla agentów kodujących: reguły, hooki blokujące niebezpieczne operacje i dostęp do sekretów, skille ładowane na żądanie, niezależna recenzja drugim modelem
-- **Agenci AI** - autonomiczna obsługa procesów operacyjnych, integracje przez MCP i REST API z helpdeskiem, pocztą i systemami firmowymi
-- **Voice AI** - asystenci telefoniczni czasu rzeczywistego (SIP), tłumaczenie mowy na żywo, transkrypcja z rozpoznawaniem mówców
-- **Automatyzacja procesów** - przebudowa procesów ręcznych w systemy działające bez nadzoru
-- **Systemy danych** - aplikacje analityczne na milionach rekordów, zasilanie z API, raportowanie
-- **Wdrożenia lokalne** - modele AI na infrastrukturze klienta, dane nie opuszczają firmy
+Zwykle zaczynam od prostego pytania: czy proces, który komuś zajmuje kilka godzin, da się zrobić szybciej i wygodniej? Najbardziej interesuje mnie praktyczny efekt, czyli ile czasu i pracy naprawdę da się zaoszczędzić. Sam kod jest mniej ważny.
 
-### Podejście
+### Czym się zajmuję
 
-- Projektuję od podstaw pod konkretny proces - nie dopasowuję procesu do gotowego narzędzia
-- Architektura z kontrolą: wąskie uprawnienia agentów, bezpieczniki na wyjściu modeli, zatwierdzanie operacji nieodwracalnych
-- Weryfikacja na danych produkcyjnych, nie na założeniach
-- Każda decyzja architektoniczna udokumentowana
-- RODO i AI Act uwzględniam na etapie projektu
+- Automatyzacja procesów i integracje API
+- Narzędzia desktopowe i wtyczki Chrome
+- Analiza danych i raporty
+- Asystenci głosowi i AI w codziennych procesach
 
-### Stack
+### Jak pracuję
 
-Claude · GPT · Gemini · Whisper · MCP · n8n · Python · FastAPI · PostgreSQL · Docker
+Planuję przed implementacją, pracuję w izolowanych środowiskach i pilnuję sekretów. Wciąż się uczę i nie uważam się za eksperta od każdej technologii. Gdy trafiam na problem, którego jeszcze nie umiem rozwiązać, uczę się tego, co potrzebne, i doprowadzam rozwiązanie do działania.
+
+### Narzędzia
+
+Python · FastAPI · PostgreSQL · Docker · JavaScript · Claude · GPT · Gemini · MCP · Git
 
 ### Kontakt
 
